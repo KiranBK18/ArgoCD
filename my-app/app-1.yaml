@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/KiranBK18/ArgoCD/blob/main/my-app/app-1.yaml
+    repoURL: https://github.com/KiranBK18/ArgoCD
     targetRevision: HEAD
     path: my-app
   destination: 
