@@ -10,7 +10,7 @@ spec:
   project: default
   source: 
     repoURL: "https://github.com/KiranBK18/ArgoCD/tree/main/guestbook"
-    targetRevision: master
+    targetRevision: Head
     path: guestbook-path
   syncPolicy:
     automated:
